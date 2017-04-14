@@ -28,7 +28,7 @@
 
 [TV-Asahi corp. CMS renewal project](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004)  
-![Image](img/tva.png)  
+![Image](img/tva_639x411.png)  
 
 - _Role:_ Application Development Team Leader
 - _Objectives:_ Project aimed to integrate digital data broadcasting system with an existing web site,scattered customer data as well.  
@@ -36,7 +36,7 @@
 
 [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
 (2012)  
-![Image](img/ow_mh_inside_2.jpg)  
+![Image](img/ow_mh_inside_2_639x344.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
@@ -46,7 +46,7 @@
 
 [“Fortune Cookie in Love” video promotion](https://www.youtube.com/watch?v=URLrRwlu6qI)
 (2013)  
-![Image](img/fc.png)  
+![Image](img/fc_599x337.png)  
 
 - _Role:_ Producer
 - _Objectives:_ Develop new/deeper relationship with IT startup company’s Executives through new and novel approach, to create new demand and revenue opportunities in white market.
@@ -54,7 +54,7 @@
 
 [Watson on IBM Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
 (2016)   
-![Image](img/hc.jpg)  
+![Image](img/hc_639x340.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
