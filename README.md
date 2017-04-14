@@ -39,7 +39,7 @@
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
-- _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline 
+- _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline
 
 [some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
 
@@ -60,5 +60,4 @@
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
 
 <!-- ga beacon -->
-[![Analytics](https://ga-beacon.appspot.com/UA-96198072-1/ultra6lue.github.io?pixel)](https://github.com/igrigorik/ga-beacon)
-
+[![Analytics](https://ga-beacon.appspot.com/UA-96198072-2/ultra6lue.github.io?pixel)](https://github.com/igrigorik/ga-beacon)
