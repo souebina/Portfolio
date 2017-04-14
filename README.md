@@ -9,7 +9,7 @@
   _Databases:_ Oracle, PostgreSQL  
   _Systems:_ Unix, Linux, Windows, Apache Tomcat  
 - 2 years experience in Technical Sales
-- 10 years experience in B2B Tech Marketing,including 2 years experience as Cloud Field Marketer  
+- 10 years experience in B2B Tech Marketing,including 3 years experience as Cloud Field Marketer  
   * Marketing Strategies & Campaigns  
   * Product Positioning & Branding  
   * New Product Launch  
