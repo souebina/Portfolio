@@ -1,7 +1,8 @@
 ### Sou Ebina
 ![Image](img/SE_GitHubio_250x300_mono.jpg)　　
 
-### skills summary
+### skills summary  
+[LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
 
 - 8 years experience in developing web-based applications  
   _Languages:_ C, C++, Java, PHP, Perl  
