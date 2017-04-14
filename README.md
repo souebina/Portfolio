@@ -61,4 +61,4 @@
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
 
 <!-- ga beacon -->
-[![Analytics](https://ga-beacon.appspot.com/UA-96198072-2/ultra6lue.github.io?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-96198072-2/souebina.github.io/projects/?pixel)](https://github.com/igrigorik/ga-beacon)
