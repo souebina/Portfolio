@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+### Sou Ebina
+![Image](img/SE_GitHubio_250x300_mono.jpg)　　
 
-You can use the [editor on GitHub](https://github.com/souebina/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### skills summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 8 years experience in developing web-based applications  
+  _Languages:_ C, C++, Java, PHP, Perl  
+  _Databases:_ Oracle, PostgreSQL  
+  _Systems:_ Unix, Linux, Windows, Apache Tomcat  
+- 2 years experience in Technical Sales
+- 10 years experience in B2B Tech Marketing,including 2 years experience as Cloud Field Marketer  
+  * Marketing Strategies & Campaigns  
+  * Product Positioning & Branding  
+  * New Product Launch  
+  * Signature event project management
+  * Web & Print Content Development    
 
-### Markdown
+### Representative Projects (2000 to 2016)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Digital Network MP3 Test-Listening System](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
+(2000)  
+![Image](img/kc.jpg)  
 
-```markdown
-Syntax highlighted code block
+- _Role:_ Server-Side Application development
+- _Objectives:_ Introduced and operated new computerized system for Digital Network MP3 test-listening service with Pioneer Corporation.  
+- _Results:_ The Japan first large-scale system development reference to adapt Linux as primary operating system for mission critical system.
 
-# Header 1
-## Header 2
-### Header 3
+[TV-Asahi corp. CMS renewal project](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
+(2004)  
+![Image](img/tva.png)  
 
-- Bulleted
-- List
+- _Role:_ Application Development Team Leader
+- _Objectives:_ Project aimed to integrate digital data broadcasting system with an existing web site,scattered customer data as well.  
+- _Results:_ Whole system was safely launched in June 2004 with flexibility and agility.The first case in Japanese B2C website to adapt PHP for primary language.
 
-1. Numbered
-2. List
+[Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
+(2012)  
+![Image](img/ow_mh_inside_2.jpg)  
 
-**Bold** and _Italic_ and `Code` text
+- _Role:_ Project Manager
+- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
+- _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline 
 
-[Link](url) and ![Image](src)
-```
+[some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[“Fortune Cookie in Love” video promotion](https://www.youtube.com/watch?v=URLrRwlu6qI)
+(2013)  
+![Image](img/fc.png)  
 
-### Jekyll Themes
+- _Role:_ Producer
+- _Objectives:_ Develop new/deeper relationship with IT startup company’s Executives through new and novel approach, to create new demand and revenue opportunities in white market.
+- _Results:_ No.3 Total PV ranking in IBM Japan (942,584 PVs/as of Mar8,2017)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/souebina/projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Watson on IBM Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
+(2016)   
+![Image](img/hc.jpg)  
 
-### Support or Contact
+- _Role:_ Project Manager
+- _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
+- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- ga beacon -->
+[![Analytics](https://ga-beacon.appspot.com/UA-96198072-1/ultra6lue.github.io?pixel)](https://github.com/igrigorik/ga-beacon)
+
