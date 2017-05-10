@@ -3,19 +3,19 @@
 
 ### skills summary  
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
-
-- 8 years experience in developing web-based applications  
-  _Languages:_ C, C++, Java, PHP, Perl  
-  _Databases:_ Oracle, PostgreSQL  
-  _Systems:_ Unix, Linux, Windows, Apache Tomcat  
-- 2 years experience in Technical Sales
+ 
 - 11 years experience in B2B Tech Marketing,including 3 years experience as Cloud Field Marketer  
   * Marketing Strategies & Campaigns  
   * Product Positioning & Branding  
   * New Product Launch  
   * Signature event project management
-  * Web & Print Content Development    
-
+  * Web & Print Content Development 
+ - 2 years experience in Technical Sales
+- 8 years experience in developing web-based applications  
+  _Languages:_ C, C++, Java, PHP, Perl  
+  _Databases:_ Oracle, PostgreSQL  
+  _Systems:_ Unix, Linux, Windows, Apache Tomcat 
+  
 ### Representative Projects (2000 to 2016)
 
 [Digital Network MP3 Test-Listening System](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
