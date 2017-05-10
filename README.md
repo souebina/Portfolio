@@ -9,8 +9,8 @@
   * Product Positioning & Branding  
   * New Product Launch  
   * Signature event project management
-  * Web & Print Content Development 
- - 2 years experience in Technical Sales
+  * Web & Print Content Development
+- 2 years experience in Technical Sales
 - 8 years experience in developing web-based applications  
   _Languages:_ C, C++, Java, PHP, Perl  
   _Databases:_ Oracle, PostgreSQL  
