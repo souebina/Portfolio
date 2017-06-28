@@ -53,12 +53,12 @@
 - _Results:_ No.3 Total PV ranking in IBM Japan (942,584 PVs/as of Mar8,2017)
 
 [Watson on IBM Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/)
-(2016)   
+(2016-2017)   
 ![Image](img/ic2_600x338.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
+- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Mar23,2017)  
 
 <!-- ga beacon -->
 [![Analytics](https://ga-beacon.appspot.com/UA-96198072-2/souebina.github.io/projects/?pixel)](https://github.com/igrigorik/ga-beacon)
