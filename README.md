@@ -11,7 +11,7 @@
   * Signature event project management
   * Web & Print Content Development
 - 2 years experience in Technical Sales
-- 8 years experience in Server Control Engineering and web-based applications development
+- 8 years experience in Server Control Engineering and web-based applications development  
   _Languages:_ C, C++, Java, PHP, Perl  
   _Databases:_ Oracle, PostgreSQL  
   _Systems:_ Unix, Linux, Windows, Apache Tomcat 
