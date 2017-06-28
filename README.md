@@ -54,7 +54,7 @@
 
 [Watson on IBM Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/)
 (2016)   
-![Image](img/hc_639x340.jpg)  
+![Image](img/ic_600x346.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
