@@ -4,14 +4,14 @@
 ### skills summary  
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
  
-- 11 years experience in B2B Tech Marketing,including 3 years experience as Cloud Field Marketer  
+- 11 years experience in B2B Tech Marketing 
   * Marketing Strategies & Campaigns  
   * Product Positioning & Branding  
   * New Product Launch  
   * Signature event project management
   * Web & Print Content Development
 - 2 years experience in Technical Sales
-- 8 years experience in developing web-based applications  
+- 8 years experience in Server Control Engineering and web-based applications development
   _Languages:_ C, C++, Java, PHP, Perl  
   _Databases:_ Oracle, PostgreSQL  
   _Systems:_ Unix, Linux, Windows, Apache Tomcat 
@@ -54,7 +54,7 @@
 
 [Watson on IBM Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/)
 (2016)   
-![Image](img/ic_600x346.jpg)  
+![Image](img/ic2_600x338.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
