@@ -1,5 +1,5 @@
 ### Sou Ebina
-![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　
+### ![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　
 
 ### skills summary  
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
@@ -9,7 +9,7 @@
   * Product Positioning & Branding  
   * New Product Launch  
   * Signature event project management
-  * Web & Print Content Development
+  * Web Development : HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails. 
 - 2 years experience in Technical Sales
 - 8 years experience in Server Control Engineering and web-based applications development  
   _Languages:_ C, C++, Java, PHP, Perl  
