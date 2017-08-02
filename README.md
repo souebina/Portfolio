@@ -2,8 +2,7 @@
 ![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　-->
 
 ## Sou Ebina's skills summary  
-[LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
- 
+
 - 11 years experience in B2B Tech Marketing 
   * Marketing Strategies & Campaigns  
   * Product Positioning & Branding  
@@ -15,7 +14,9 @@
   _Languages:_ C, C++, Java, PHP, Perl  
   _Databases:_ Oracle, PostgreSQL  
   _Systems:_ Unix, Linux, Windows, Apache Tomcat 
-  
+
+[LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
+
 ### Representative Projects (2000 to 2017)
 
 [Digital Network MP3 Test-Listening System](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
