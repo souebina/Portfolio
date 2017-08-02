@@ -49,7 +49,7 @@
 (2013)  
 ![Image](img/fc_599x337.png)  
 
-- _Role:_ Producer
+- _Role:_ Producer/Project Manager
 - _Objectives:_ Develop new/deeper relationship with IT startup company’s Executives through new and novel approach, to create new demand and revenue opportunities in white market.
 - _Results:_ No.3 Total PV ranking in IBM Japan (942,584 PVs/as of Mar8,2017)
 
