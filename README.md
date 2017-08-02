@@ -61,7 +61,8 @@
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Mar23,2017)  
 
-[Social Action Work : Project 'Bosai'](https://www.bosai.world/)
+## Social Action Work    
+[Project 'Bosai'](https://www.bosai.world/)
 (2017-)   
 ![Image](img/bosai_coverpic_600x315.jpg)  
 
