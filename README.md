@@ -1,5 +1,5 @@
-### Sou Ebina
-### ![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　
+<!-- ### Sou Ebina
+![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　-->
 
 ### skills summary  
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
