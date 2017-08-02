@@ -1,7 +1,7 @@
 <!-- ### Sou Ebina
 ![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　-->
 
-### Sou Ebina's skills summary  
+## Sou Ebina's skills summary  
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
  
 - 11 years experience in B2B Tech Marketing 
