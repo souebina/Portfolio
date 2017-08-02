@@ -1,7 +1,7 @@
 <!-- ### Sou Ebina
 ![Image](img/SE_GitHubio_circle_200x200_color.jpg)　　-->
 
-### skills summary  
+### Sou Ebina's skills summary  
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
  
 - 11 years experience in B2B Tech Marketing 
@@ -9,14 +9,14 @@
   * Product Positioning & Branding  
   * New Product Launch  
   * Signature event project management
-  * Web Development : HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails. 
+  * Web Development : HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails 
 - 2 years experience in Technical Sales
 - 8 years experience in Server Control Engineering and web-based applications development  
   _Languages:_ C, C++, Java, PHP, Perl  
   _Databases:_ Oracle, PostgreSQL  
   _Systems:_ Unix, Linux, Windows, Apache Tomcat 
   
-### Representative Projects (2000 to 2016)
+### Representative Projects (2000 to 2017)
 
 [Digital Network MP3 Test-Listening System](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
 (2000)  
@@ -59,6 +59,15 @@
 - _Role:_ Project Manager
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Mar23,2017)  
+
+[Social Action Work : Project 'Bosai'](https://www.bosai.world/)
+(2017-)   
+![Image](img/bosai_coverpic_1200x630.jpg)  
+
+- _Role:_ Product Manger, UI/UX Designer
+- _Background:_ Shipped to production as a pilot project after 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails
+- _Description:_ Instant community based Disaster Relief Infrastructure aim to solve the inefficiency in the distribution of relief supplies and aid in the aftermath of catastrophic disasters, leading to severe "secondary disasters" 
+
 
 <!-- ga beacon -->
 [![Analytics](https://ga-beacon.appspot.com/UA-96198072-2/souebina.github.io/projects/?pixel)](https://github.com/igrigorik/ga-beacon)
