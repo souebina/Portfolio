@@ -62,7 +62,7 @@
 
 [Social Action Work : Project 'Bosai'](https://www.bosai.world/)
 (2017-)   
-![Image](img/bosai_coverpic_1200x630.jpg)  
+![Image](img/bosai_coverpic_600x315.jpg)  
 
 - _Role:_ Product Manger, UI/UX Designer
 - _Background:_ Shipped to production as a pilot project after 9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails
