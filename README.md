@@ -43,7 +43,7 @@
 - _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
 - _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline
 
-[some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
+[Watch funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
 
 [“Fortune Cookie in Love” video promotion](https://www.youtube.com/watch?v=URLrRwlu6qI)
 (2013)  
@@ -56,6 +56,14 @@
 [Watson on IBM Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/)
 (2016-2017)   
 ![Image](img/ic2_600x338.jpg)  
+
+- _Role:_ Project Manager
+- _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
+- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Mar23,2017)  
+
+[AWS training Voucher on Amazon Business Marketplace](https://aws.amazon.com/jp/training/voucher/)
+(2018-)   
+![Image](img/AWSTrainingVoucher_635x304.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
