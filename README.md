@@ -67,7 +67,7 @@
 
 - _Role:_ Project Manager
 - _Objectives:_ Aim to help customers who cannot purchase the voucher by invoice. AWS customers can get more convenience for AWS training payment by purchasing the voucher on Amazon Business Marketplace.
-- _Results:_ Through AWS training voucher, customers can purchase the voucher by invoice from one day course with one participant. Also customers can get a quote automatically from the system immediately. Amazon Business Marketplace give customers not only flexibility in buying vouchers but also reducing costs and saving time.
+- _Results:_ Through Amazon Business Marketplace, customers can purchase the voucher by invoice from one day course with one participant. Also customers can get a quote automatically from the system immediately. Amazon Business Marketplace give customers not only flexibility in buying vouchers but also reducing costs and saving time.
 
 ## Social Action Work    
 [Project 'Bosai'](https://www.bosai.world/)
