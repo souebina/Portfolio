@@ -80,5 +80,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/sosuke-ebina/)  
 
-<!-- ga beacon -->
+<!-- ga beacon
 [![Analytics](https://ga-beacon.appspot.com/UA-96198072-2/souebina.github.io/projects/?pixel)](https://github.com/igrigorik/ga-beacon)
+-->
