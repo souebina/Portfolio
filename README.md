@@ -63,7 +63,7 @@
 
 [AWS training Voucher on Amazon Business Marketplace](https://aws.amazon.com/jp/training/voucher/)
 (2018-)   
-![Image](img/AWSTrainingVoucher_635x304.jpg)  
+![Image](img/AWSTrainingVoucher_LP_600x373.jpg)  
 
 - _Role:_ Project Manager
 - _Objectives:_ Aim to help customers who cannot purchase the voucher by invoice. AWS customers can get more convenience for AWS training payment by purchasing the voucher on Amazon Business Marketplace.
